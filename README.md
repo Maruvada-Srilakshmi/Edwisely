@@ -47,7 +47,7 @@ Chat-Based-Report/
 │   ├── query_parser.py
 │   ├── data_store.py
 │   ├── sample_data/
-│   │   └── students_extended.csv
+│   │   └── students.csv
 │   └── requirements.txt
 │
 ├── frontend/
