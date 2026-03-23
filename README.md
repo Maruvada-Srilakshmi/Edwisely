@@ -164,24 +164,3 @@ Show students in grade 10
 * 📉 Advanced analytics (group by, aggregation)
 * 📱 Mobile responsive UI
 
----
-
-## 🤝 Contributing
-
-Feel free to fork this repo and enhance features!
-
----
-
-## 📜 License
-
-This project is open-source and free to use.
-
----
-
-## 👨‍💻 Author
-
-**Sri Lakshmi Maruvada**
-
----
-
-⭐ If you like this project, give it a star!
